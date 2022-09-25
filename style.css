@@ -1,0 +1,172 @@
+body{
+
+    margin:0;
+    font-family: 'Inter', sans-serif;
+    
+}
+/* main body start */
+.main{
+    
+    margin: 5%;
+    
+    
+}
+
+/* main body end */
+
+/* introduction start */
+
+.half-width{
+
+    width: 40%;
+    float: left;
+    margin-right: 65px;
+
+}
+
+.hello{
+
+    color: #363958;
+    font-size: 38px;
+    font-weight:bolder;
+    
+}
+
+.name{
+    color: #FF8367;
+    font-size:38px;
+    font-weight: bold;
+    
+}
+
+button{
+
+    padding: 15px 32px;
+    background-color: #FF8367;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    
+
+
+}
+
+.half-width img{
+
+    width:100%;
+}
+
+/* introduction end */
+
+/* About Section Start */
+
+.half-width{
+    margin-top:30px;
+
+}
+.about{
+    font-size: bold;
+}
+/* About Section End */
+
+/* Project section start */
+
+
+
+.cards{
+    
+
+    width:100%;
+    overflow: hidden;
+    text-align: center;
+}
+.cards h1{
+    font-size: bold;
+}
+.card-1{
+
+   
+
+    width: 25%;
+    padding: 22px;
+    float: left;
+    margin-right: 31px;
+    margin-bottom: 10px;
+}
+.cards img{
+
+    width:100%;
+    
+}
+
+.card{
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    
+}
+
+
+/* Project section end */
+
+/* work-inquiry start */
+
+.inquiry{
+
+    width:100%;
+}
+.work-inquiry {
+    width:80%;
+    background-size: 835px 190px;
+    height: 200px;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+
+    position: absolute;
+    
+}
+
+.inquiry{
+
+    margin-top:50px;
+}
+
+.half-inquiry{
+
+    width:50%;
+    float:left;
+    position: relative
+}
+
+.w1{
+
+    top:60px;
+    left: 20px;
+}
+
+.w2{
+
+    top: 60px;
+    right: 90px;
+    
+    
+}
+
+.half-inquiry h1{
+
+    color:white;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+
+.half-inquiry button{
+
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+/* work-inquiry end */
+
